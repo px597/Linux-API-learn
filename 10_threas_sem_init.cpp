@@ -1,3 +1,5 @@
+//for Ubuntu 18.04
+//信号量与多线程并发
 #include<stdio.h>
 #include<stdlib.h>
 #include<semaphore.h>
